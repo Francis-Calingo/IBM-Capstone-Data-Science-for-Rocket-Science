@@ -25,5 +25,17 @@
   <ul>
     <li><b>IDEs Used:</b> Google Colab, Jupyter Notebook</li>
     <li><b>Python Version:</b> 3.10.12</li>
+    <li><b>SQL tool:</b> sqlite3 </li>
+    <li><b>Presentation tool:</b> Microsoft 360 PowerPoint</li>
     <li><b>Libraries and Packages:</b></li>
+      <ul>
+    <li><b>Data collection via API:</b>requests, pandas, numpy</li>
+    <li><b>Data collection via webscraping:</b> sys, requests, BeautifulSoup, re, unicodedata, pandas</li>
+    <li><b>Data wrangling:</b> pandas, numpy</li>
+    <li><b>Exploratory Data Analysis with SQL queries:</b>csv, sqlite3, prettytable</li>
+    <li><b>Exploratory Data Analysis with Pandas and Matplotlib:</b> pandas, numpy, seaborn, matplotlib</li>
+    <li><b>Data Visualization with Folium:</b> folium (including MarkerCluster, MousePosition, DivIcon), wget, pandas </li>
+    <li><b>Dashboarding with Plotly Dash:</b> pandas, dash (including dash_html_components, dash_core_components, Input, Output), plotly.express</li>
+    <li><b>Predictive Modelling with Machine Learning:</b> pandas, numpy, seaborn, matplotlib, sklearn (including preprocessing, train_test_split, GridSearchCV, LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)</li>
+      </ul>
   </ul>
