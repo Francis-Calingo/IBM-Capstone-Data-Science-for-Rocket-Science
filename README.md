@@ -3,11 +3,20 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Code and Resources Used](#code-and-resources-used)
+* [Summary of Methodologies and Results](#summary-of-methodologies-and-results)
+    * [Data Collection](#data-collection)
+    * [Data Wrangling](#data-wrangling)
+    * [Exploratory Data Analysis](#exploratory-data-analysis)
+    * [Geospatial Analysis with Folium](#geospatial-analysis-with-folium)
+    * [Dashboard Visualization with Plotly Dash](#dashboard-visualization-with-plotly-dash)
+    * [Predictive Modelling with Machine Learning](#predictive-modelling-with-machine-learning)
+* [Discussion and Next Steps](#discussion-and-next-steps)
 
 ## Introduction
 
 <ul>
     <li>Amalgamated several data science topics to extract and visualize data from SpaceX, and, serving in a hypoithetical data scientist role, helped the hypothetical aerospace company SpaceY optimize the success of their rocket launches (and thus save money) through predictive modelling. </li>
+    <li>Presented findings and insight in an attached PowerPoint presentation, mirroring presentations that would be presented to executives and non-technical audiences. </li>
     <li>Part of IBM's Data Science Professional Certificate Program.</li>
     <li>Draws upon several data science topics:</li>
   <ul>
@@ -26,6 +35,7 @@
     <li><b>IDEs Used:</b> Google Colab, Jupyter Notebook</li>
     <li><b>Python Version:</b> 3.10.12</li>
     <li><b>SQL tool:</b> sqlite3 </li>
+    <li><b>SQL Queries:</b></li>
     <li><b>Presentation tool:</b> Microsoft 360 PowerPoint</li>
     <li><b>Libraries and Packages:</b></li>
       <ul>
@@ -39,3 +49,23 @@
     <li><b>Predictive Modelling with Machine Learning:</b> pandas, numpy, seaborn, matplotlib, sklearn (including preprocessing, train_test_split, GridSearchCV, LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)</li>
       </ul>
   </ul>
+
+## Summary of Methodologies and Results
+
+#### Data Collection
+
+#### Data Wrangling
+
+#### Exploratory Data Analysis
+
+#### Geospatial Analysis with Folium
+
+#### Dashboard Visualization with Plotly Dash
+
+#### Predictive Modelling with Machine Learning
+
+## Discussion and Next Steps
+
+
+
+
