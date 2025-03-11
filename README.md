@@ -15,7 +15,7 @@
 ## Introduction
 
 <ul>
-    <li>Amalgamated several data science topics to extract and visualize data from SpaceX, and, serving in a hypoithetical data scientist role, helped the hypothetical aerospace company SpaceY optimize the success of their rocket launches (and thus save money) through predictive modelling. </li>
+    <li>Amalgamated several data science topics to extract and visualize data from SpaceX, and, serving in a hypothetical data scientist role, helped the hypothetical aerospace company SpaceY optimize the success of their rocket launches (and thus save money) through predictive modelling. </li>
     <li>Presented findings and insights in an attached PowerPoint presentation, mirroring presentations that would be presented to executives and non-technical audiences. </li>
     <li>Part of IBM's Data Science Professional Certificate Program.</li>
     <li>Draws upon several data science topics:</li>
