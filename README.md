@@ -16,7 +16,7 @@
 
 <ul>
     <li>Amalgamated several data science topics to extract and visualize data from SpaceX, and, serving in a hypoithetical data scientist role, helped the hypothetical aerospace company SpaceY optimize the success of their rocket launches (and thus save money) through predictive modelling. </li>
-    <li>Presented findings and insight in an attached PowerPoint presentation, mirroring presentations that would be presented to executives and non-technical audiences. </li>
+    <li>Presented findings and insights in an attached PowerPoint presentation, mirroring presentations that would be presented to executives and non-technical audiences. </li>
     <li>Part of IBM's Data Science Professional Certificate Program.</li>
     <li>Draws upon several data science topics:</li>
   <ul>
@@ -35,7 +35,23 @@
     <li><b>IDEs Used:</b> Google Colab, Jupyter Notebook</li>
     <li><b>Python Version:</b> 3.10.12</li>
     <li><b>SQL tool:</b> sqlite3 </li>
-    <li><b>SQL Queries:</b></li>
+    <li><b>SQL queries and functions:</b></li>
+         <ul>
+    <li>SELECT DISTINCT</li>
+    <li>FROM</li>
+    <li>ORDER BY</li>   
+    <li>SELECT *</li>
+    <li>WHERE</li>
+    <li>LIKE</li>
+    <li>LIMIT</li>
+    <li>SELECT SUM() AS</li>
+    <li>SELECT MIN() AS</li>
+    <li>BETWEEN</li>
+    <li>COUNT(*)</li>
+    <li>GROUP BY</li>
+    <li>SELECT MAX()</li>
+    <li>SELECT substr()</li>
+         </ul>
     <li><b>Presentation tool:</b> Microsoft 360 PowerPoint</li>
     <li><b>Libraries and Packages:</b></li>
       <ul>
