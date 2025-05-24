@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate Capstone Project: Using Data Science Concepts to Optimize Rocket Launches
 
-## Table of Contents
+# Table of Contents
 * [Introduction](#introduction)
 * [Code and Resources Used](#code-and-resources-used)
 * [Summary of Methodologies and Results](#summary-of-methodologies-and-results)
@@ -12,7 +12,9 @@
     * [Predictive Modelling with Machine Learning](#predictive-modelling-with-machine-learning)
 * [Discussion and Next Steps](#discussion-and-next-steps)
 
-<details><summary><h2>Introduction</h2></summary> 
+---
+
+# Introduction
 
 <ul>
     <li>Amalgamated several data science topics to extract and visualize data from SpaceX, and, serving in a hypothetical data scientist role, helped the hypothetical aerospace company SpaceY optimize the success of their rocket launches (and thus save money) through predictive modelling. </li>
@@ -30,9 +32,8 @@
   </ul>
 </ul>
 
-</details>
-
-<details><summary><h2>Code and Resources Used</h2></summary> 
+---
+# Code and Resources Used
   <ul>
     <li><b>IDEs Used:</b> Google Colab, Jupyter Notebook</li>
     <li><b>Python Version:</b> 3.10.12</li>
@@ -68,9 +69,8 @@
       </ul>
   </ul>
 
-</details>
-
-<details><summary><h2>Summary of Methodologies and Results</h2></summary> 
+---
+# Summary of Methodologies and Results
 
 #### Data Collection
 <p><b>Process (data collection from API):</b> </p>
@@ -111,10 +111,8 @@
 
 ![image](https://github.com/user-attachments/assets/df1c92a6-6770-4093-8cc2-83fecbec77f1)
 
-</details>
+---
 
-<details><summary><h2>Discussion and Next Steps</h2></summary> 
+# Discussion and Next Steps
 This research proves that data science is a versatile and multi-sectoral field with use cases beyond the business world and Big Tech. In this case, it has significantly helped SpaceY using data parsing and visualization techniques, as well as predictive modelling, to help plan successful rocket launches. The next steps that SpaceY could take includes establishing partnerships with manufacturers and securing government funding using the insights from this research.
-</details>
-
 
