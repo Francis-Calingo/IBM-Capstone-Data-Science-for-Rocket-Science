@@ -32,6 +32,8 @@
   </ul>
 </ul>
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 ---
 # Code and Resources Used
   <ul>
@@ -68,6 +70,8 @@
     <li><b>Predictive Modelling with Machine Learning:</b> pandas, numpy, seaborn, matplotlib, sklearn (including preprocessing, train_test_split, GridSearchCV, LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)</li>
       </ul>
   </ul>
+
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
 # Summary of Methodologies and Results
@@ -111,8 +115,13 @@
 
 ![image](https://github.com/user-attachments/assets/df1c92a6-6770-4093-8cc2-83fecbec77f1)
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 ---
 
 # Discussion and Next Steps
 This research proves that data science is a versatile and multi-sectoral field with use cases beyond the business world and Big Tech. In this case, it has significantly helped SpaceY using data parsing and visualization techniques, as well as predictive modelling, to help plan successful rocket launches. The next steps that SpaceY could take includes establishing partnerships with manufacturers and securing government funding using the insights from this research.
+
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 
