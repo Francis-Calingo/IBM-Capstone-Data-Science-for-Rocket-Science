@@ -82,6 +82,9 @@
    <li>First, use the request library to parse the SpaceX launch data from the SpaceX API (https://api.spacexdata.com/v4/rockets/)</li>
    <li>Second, use pandas to filter for Falcon 9 launches and deal with missing values.</li>
 </ul>
+
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_DataCollection_API.ipynb)
+
 <p><b>Process (data collection from webscraping):</b> </p>
 <ul>
    <li>First, use the request library to scrape data from Falcon 9's Wikipedia article  (https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)</li>
@@ -89,12 +92,21 @@
    <li>Third, create a data frame by parsing the launch HTML tables</li>
 </ul>
 
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_DataCollection_Webscraping.ipynb)
+
 #### Data Wrangling
 <p>Exploratory Data Analysis (EDA) and data cleaning (e.g., checking for null values) were performed on the dataset. The results allowed us to summarize the following: raw launch count by site, number and occurrences of each orbit type and mission outcomes.​ The last step was creating a landing outcome label from the Outcome column of the dataset.​</p>
+
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_DataWrangling.ipynb)
 
 #### Exploratory Data Analysis
 
 <p>Space X uses 4 different launch sites: CCAFS LC-40, CCAFS SLC-40, KSC LC-39A, VAFB SLC-4E​. The success rate for each site improved over time. ​Very high success rate for payloads over 8000 kg for launch sites, and 9000 kg for orbits.​ Orbit types ES-L1, GEO, HEO, and SSO are the most successful orbit types.​ Total payload mass for NASA launches: 111,268 kg.</p>
+
+[Click for notebook-Data Visualizations](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_EDA_Viz.ipynb)
+
+[Click for notebook-SQL Queries](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/edit/main/README.md)
+
 
 #### Geospatial Analysis with Folium
 
@@ -104,16 +116,22 @@
 
 ![image](https://github.com/user-attachments/assets/9259c91b-430f-4b94-b94c-8eb39b326149)
 
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_FoliumMap.ipynb)
+
 #### Dashboard Visualization with Plotly Dash
 <p>Making up 41.7% of the total number of successful launches, KSC LC-39A is the most successful site when using that metric, followed by CCAFS LC-40 with 29.2%.</p>
 
 ![image](https://github.com/user-attachments/assets/40185f60-93b2-4261-ae1d-e5dd428d1f1c)
+
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_Dashboard.ipynb)
 
 #### Predictive Modelling with Machine Learning
 
 <p>Decision Tree Classifier, despite having the lowest test accuracy, had by far the highest accuracy overall, suggesting that it is the machine learning algorithm that SpaceY should deploy for higher accuracy in predicting successful landings and launches.</p>
 
 ![image](https://github.com/user-attachments/assets/df1c92a6-6770-4093-8cc2-83fecbec77f1)
+
+[Click for notebook](https://github.com/Francis-Calingo/IBM-Capstone-Data-Science-for-Rocket-Science/blob/main/Notebooks/SpaceY_MLPredictiveModel.ipynb)
 
 [<b>Back to Table of Contents</b>](#table-of-contents)
 
